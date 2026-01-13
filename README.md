@@ -65,16 +65,11 @@ Email	PHPMailer
 
 Clone the repository
 
-git clone https://github.com/siben-kumar/RentEsy.git
-
-
-Move the project to your server directory (htdocs / www)
-
-Import the MySQL database from /database/rentesy.sql
-
-Update database credentials in the config file
-
-Start Apache & MySQL
+1. git clone 
+2. Move the project to your server directory (htdocs / www)
+3. Import the MySQL database from /database/rentesy.sql
+4. Update database credentials in the config file
+5. Start Apache & MySQL
 
 Open in browser:
 
