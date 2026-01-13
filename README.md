@@ -78,7 +78,7 @@ Start Apache & MySQL
 
 Open in browser:
 
-http://localhost/RentEsy
+https://rentesy.infinityfreeapp.com/
 
 📈 Future Enhancements
 
